@@ -20,8 +20,13 @@ public class ArraysTest {
                 },
                 {
                         new String[]{"here", "is", "some", "text", ".", "text"},
-                        new String[]{"some", "text", "above", "."},
+                        new String[]{"some", "text", "above","."},
                         new String[]{"some", "text", "."}
+                },
+                {
+                        new String[]{"cat", "dog", "rabbit", "fish", "mouse", "hamster"},
+                        new String[]{"cow", "horse", "sheep", "mouse", "rabbit", "chicken", "fish"},
+                        new String[]{"mouse", "rabbit", "fish"}
                 }
                 // TODO add 2 more test data here
         };
